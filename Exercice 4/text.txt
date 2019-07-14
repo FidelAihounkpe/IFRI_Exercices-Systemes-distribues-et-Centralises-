@@ -1,0 +1,7 @@
+	Ulrich Fidel
+
+Fichier texte de textes.
+A recevoir par le serveur !
+Aucun traitement ne sera fait dessus !
+Il n'aura qu'à l'ouvrir et à le lire !
+Ensuite il pourra se metrre dans l'attente d'une nouvelle requete !
